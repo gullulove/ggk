@@ -1,2 +1,2 @@
 curl-cffi<=0.6.4
-flask<=2.2.2
+flask<=2.2.5
