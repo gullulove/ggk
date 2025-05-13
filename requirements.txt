@@ -1,4 +1,4 @@
 #Python Version: 3.12
 curl-cffi<0.6.4
-curl==7.9.1
+#curl==7.9.1
 #flask==2.2.2
